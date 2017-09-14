@@ -1,4 +1,4 @@
-FROM golang:1.9.0-alpine3.6
+FROM xueyouchao/golang-alpine-edge:latest
 
 ENV NO_AT_BRIDGE=1
 
